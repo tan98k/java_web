@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+	<student number="one">
+		<name id="tt">tan</name>
+		<age>18</age>
+		<sex>男</sex>
+	</student>
+	<student number="two">
+		<name>en</name>
+		<age>19</age>
+		<sex>男</sex>
+	</student>
+	<student number="three">
+		<name>ze</name>
+		<age>20</age>
+		<sex>男</sex>
+	</student>
+
+</students>
+

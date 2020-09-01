@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db22e2c1-ae54-4dab-af5d-8f98e68347a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5FuZXXUw13ZFaXSsCleaefu8u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode1.Main" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode1.day02.demo01" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode1.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode1.day01.demo01" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode1.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode1.day02.demo02" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode1.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.demo02" />
+        <item itemvalue="Application.demo01 (1)" />
+        <item itemvalue="Application.demo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db22e2c1-ae54-4dab-af5d-8f98e68347a0" name="Default Changelist" comment="" />
+      <created>1597396769655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597396769655</updated>
+      <workItem from="1597396772880" duration="1979000" />
+      <workItem from="1597582847523" duration="7632000" />
+      <workItem from="1597633759534" duration="215000" />
+      <workItem from="1597720496392" duration="2924000" />
+      <workItem from="1597763032860" duration="5973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="79" key="#Project_Structure" timestamp="1597396787205">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1597396787205" />
+    <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1597633803250">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1597633803250" />
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom" timestamp="1597769097504">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597769097504" />
+    <state width="1493" height="243" key="GridCell.Tab.0.center" timestamp="1597769097504">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1597769097504" />
+    <state width="1493" height="243" key="GridCell.Tab.0.left" timestamp="1597769097503">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1597769097503" />
+    <state width="1493" height="243" key="GridCell.Tab.0.right" timestamp="1597769097504">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597769097504" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1597724704161">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1597724704161" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1597724704160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1597724704160" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1597724704160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1597724704160" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1597724704161">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1597724704161" />
+    <state x="323" y="157" width="889" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597723642256">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="323" y="157" width="889" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1597723642256" />
+    <state x="178" y="34" key="new project wizard" timestamp="1597633853204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="34" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1597633853204" />
+  </component>
+</project>
