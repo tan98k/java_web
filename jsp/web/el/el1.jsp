@@ -1,5 +1,5 @@
 <%@ page import="cn.tan.domain.User" %>
-<%@ page import="java.util.Date" %><%--
+<%@ page import="java.util.*" %><%--
   Created by IntelliJ IDEA.
   User: 20192
   Date: 2020/9/1
@@ -43,5 +43,40 @@
             <td>${user.birStr}</td>
         </tr>
     </table>
+    <%
+        List list = new ArrayList();
+        list.add("aaa");
+        list.add("bbb");
+        list.add(user);
+        request.setAttribute("list",list);
+    %>
+    <br>
+    <h4>el解析list</h4>
+    <p>${requestScope.list[1]}</p>
+    <p>${requestScope.list[2].name}</p>
+    <h4>el解析map</h4>
+    <%
+        Map map = new HashMap();
+        map.put("name","tan");
+        map.put("age",19);
+        map.put("obj",user);
+        request.setAttribute("map",map);
+    %>
+    <p>${map.name}</p>
+    <p>${map.obj.age}</p>
+
+    <h4>empt运算符</h4>
+
+    <%
+        String s = "tan hhhh";
+        request.setAttribute("str",s);
+        List blist = new ArrayList();
+        request.setAttribute("blist",blist);
+    %>
+
+    ${not empty str}
+    ${not empty blist}<br/>
+    ${pageContext.request.contextPath}/page.js
+
 </body>
 </html>
